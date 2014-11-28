@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour {
 	private float shift_axis_late;
 	public float leftMouseClicks;
 
+
 	private float animLayer2;
 	public float inputX;
 	public float inputY;

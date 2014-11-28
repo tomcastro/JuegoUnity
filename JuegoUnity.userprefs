@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\SurvivalShooter\Assets\Scripts\Enemy\EnemyMovement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="141" Column="1" />
-      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" Line="7" Column="19" />
-      <File FileName="..\SurvivalShooter\Assets\Scripts\Enemy\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="12" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
